@@ -1,0 +1,19 @@
+{
+    "name": "adam-innes/php-rest-client",
+    "description": "PHP REST Client",
+    "version": "1.0.5",
+    "authors": [
+        {
+            "name": "Adam Innes",
+            "email": "code@adaminnes.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpRestClient\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "adam-innes/php-rest-client",
+        "version": "1.0.5",
+        "version_normalized": "1.0.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/innesian/PhpRestClient.git",
+            "reference": "bc49454d954742c34d43ce3977b4a21e3292bd79"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/innesian/PhpRestClient/zipball/bc49454d954742c34d43ce3977b4a21e3292bd79",
+            "reference": "bc49454d954742c34d43ce3977b4a21e3292bd79",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2016-02-24 12:57:34",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PhpRestClient\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Adam Innes",
+                "email": "code@adaminnes.com"
+            }
+        ],
+        "description": "PHP REST Client"
+    }
+]

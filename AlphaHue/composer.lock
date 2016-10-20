@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "4eeb45b5cc38f478803071d8a9a5f8eb",
+    "content-hash": "85cc98b5d5f993cd5b7cdfbde1c7e99d",
+    "packages": [
+        {
+            "name": "adam-innes/php-rest-client",
+            "version": "1.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/innesian/PhpRestClient.git",
+                "reference": "bc49454d954742c34d43ce3977b4a21e3292bd79"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/innesian/PhpRestClient/zipball/bc49454d954742c34d43ce3977b4a21e3292bd79",
+                "reference": "bc49454d954742c34d43ce3977b4a21e3292bd79",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PhpRestClient\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Adam Innes",
+                    "email": "code@adaminnes.com"
+                }
+            ],
+            "description": "PHP REST Client",
+            "time": "2016-02-24 12:57:34"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.4.0"
+    },
+    "platform-dev": []
+}
