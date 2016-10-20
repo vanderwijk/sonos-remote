@@ -1,7 +1,7 @@
 # sonos-remote
 Using the Philips Hue Dimmer as remote for Sonos
 
-NOTE that this is just a proof of concept.
+NOTE that this is just a proof of concept and I cannot provide support for using this script.
 
 Step 1: Upload all the files from this project to a PHP webserver
 
